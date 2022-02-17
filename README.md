@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masTechDeveloper&layout=compact&theme=dark)](https://github.com/masTechDeveloper/masTechDeveloper)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarooqi&layout=compact&theme=dark)](https://github.com/iamfarooqi)
 
-[![masTechDeveloper Github Stats](https://github-readme-stats.vercel.app/api?username=masTechDeveloper&count_private=true&show_icons=true&theme=dark)](https://github.com/masTechDeveloper/masTechDeveloper)
+[![iamfarooqi Github Stats](https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark)](https://github.com/iamfarooqi)
