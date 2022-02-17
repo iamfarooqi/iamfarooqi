@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<!-- [website]: https://www.corecis.org -->
+[website]: https://www.linkedin.com/in/iamfarooqi/
 [twitter]: https://twitter.com/iam_farooqi
 <!-- [youtube]: https://www.youtube.com/farooqi -->
 [instagram]: https://www.instagram.com/iam__farooqi/?hl=en
