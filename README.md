@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -39,4 +39,9 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-:link:: LinkedIn Account: https://www.linkedin.com/in/iamfarooqi/
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masTechDeveloper&layout=compact&theme=dark)](https://github.com/masTechDeveloper/masTechDeveloper)
+
+[![masTechDeveloper Github Stats](https://github-readme-stats.vercel.app/api?username=masTechDeveloper&count_private=true&show_icons=true&theme=dark)](https://github.com/masTechDeveloper/masTechDeveloper)
