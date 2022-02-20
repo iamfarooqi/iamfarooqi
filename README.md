@@ -65,11 +65,21 @@ Here are some ideas to get you started:
 <details>
   <summary>Most Used Languages</summary>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarooqi&layout=compact&theme=dark" alt="drakosi99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarooqi&layout=compact&theme=dark" alt="iamfarooqi" /></p>
+</details>
+</div>
+
+<div>
+<details>
+  <summary>Most Used Languages</summary>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark" alt="iamfarooqi" /></p>
 </details>
 </div>
 
 
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarooqi&layout=compact&theme=dark)](https://github.com/iamfarooqi) -->
 
-[![iamfarooqi Github Stats](https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark)](https://github.com/iamfarooqi)
+<!-- [![iamfarooqi Github Stats](https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark)](https://github.com/iamfarooqi) -->
