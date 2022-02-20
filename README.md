@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 
 
 <hr />
-<hr />
 
 ---
 <div>
@@ -68,8 +67,7 @@ Here are some ideas to get you started:
 </details>
 </div>
 
-<br/>
-<br/>
+<hr/>
 
 <div>
 <details>
