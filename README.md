@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-
+ -->
 
 <br />
 <br />
@@ -88,6 +88,9 @@ Here are some ideas to get you started:
 </details>
 </div>
 
+<br/>
+<br/>
+
 <div>
 <details>
    <summary>Github Stats</summary>
@@ -95,6 +98,14 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark" alt="iamfarooqi" /></p>
 </details>
 </div>
+
+
+[website]: https://www.linkedin.com/in/iamfarooqi/
+[twitter]: https://twitter.com/iam_farooqi
+<!-- [youtube]: https://www.youtube.com/farooqi -->
+[instagram]: https://www.instagram.com/iam__farooqi/?hl=en
+[linkedin]: https://www.linkedin.com/in/iamfarooqi/
+
 
 
 
