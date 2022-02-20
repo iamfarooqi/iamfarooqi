@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <div>
 <details>
-   [![iamfarooqi Github Stats](https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark)](https://github.com/iamfarooqi)
+   <summary>Atta Ur Rahman Farooqi Github Stats</summary>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark" alt="iamfarooqi" /></p>
 </details>
