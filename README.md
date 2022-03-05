@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="1st-div" width="48%" src="https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png" />
-  <img align="left" alt="1st-div" width="48%" src="https://user-images.githubusercontent.com/73984528/156903454-acf97a33-6acd-443e-8282-3e6112e43f67.png" />
+<img align="left" alt="1st-div" width="50%" src="https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png" />
+  <img align="left" alt="1st-div" width="50%" src="https://user-images.githubusercontent.com/73984528/156903454-acf97a33-6acd-443e-8282-3e6112e43f67.png" />
 
 </div>
 <!-- <br/> -->
