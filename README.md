@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/iam__farooqi/?hl=en
 [linkedin]: https://www.linkedin.com/in/iamfarooqi/
 
-
+<!-- ![123](https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png) -->
 
 <br />
 
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="1st-div" width="40%" src="https://user-images.githubusercontent.com/73984528/156891872-9a7654dd-9240-49be-8da4-dc33fa4f5e97.png" />
+<img align="left" alt="1st-div" width="50%" src="https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png" />
 
 </div>
 
