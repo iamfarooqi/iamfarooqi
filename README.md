@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/iam__farooqi/?hl=en
 [linkedin]: https://www.linkedin.com/in/iamfarooqi/
 
-![123](https://user-images.githubusercontent.com/73984528/156891872-9a7654dd-9240-49be-8da4-dc33fa4f5e97.png)
 
 
 <br />
