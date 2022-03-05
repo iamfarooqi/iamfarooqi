@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://www.linkedin.com/in/iamfarooqi/
 [twitter]: https://twitter.com/iam_farooqi
@@ -37,21 +37,18 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/iam__farooqi/?hl=en
 [linkedin]: https://www.linkedin.com/in/iamfarooqi/
 
-<!-- ![123](https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png) -->
 
 <br />
 
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="1st-div" width="50%" src="https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png" />
+<img align="left" alt="1st-div" width="48%" src="https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png" />
+  <img align="left" alt="1st-div" width="48%" src="https://user-images.githubusercontent.com/73984528/156903454-acf97a33-6acd-443e-8282-3e6112e43f67.png" />
 
 </div>
-
-<br/>
-<hr />
-
----
+<!-- <br/> -->
+<hr/>
 <div>
 <details>
   <summary>Most Used Languages</summary>
