@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="1st-div" width="300px" src="https://user-images.githubusercontent.com/73984528/156891872-9a7654dd-9240-49be-8da4-dc33fa4f5e97.png" />
+<img align="left" alt="1st-div" width="40%" src="https://user-images.githubusercontent.com/73984528/156891872-9a7654dd-9240-49be-8da4-dc33fa4f5e97.png" />
 
 </div>
 
