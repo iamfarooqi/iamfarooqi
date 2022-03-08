@@ -22,22 +22,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![twitter](https://user-images.githubusercontent.com/73984528/157229532-f75200c5-5482-4f21-9ef4-44bbc4ef655d.png)
-![facebook](https://user-images.githubusercontent.com/73984528/157229544-21dab98d-bb97-4bcc-83e0-838765d1fe70.png)
-![linkedin](https://user-images.githubusercontent.com/73984528/157230001-b826779c-4679-4e14-a7d2-05db34524adb.png)
-![instagram](https://user-images.githubusercontent.com/73984528/157230006-468ea18f-411d-44a1-8e1f-f33585e69072.png) -->
-<!-- ![instagram](https://user-images.githubusercontent.com/73984528/157231184-a4a6aace-be36-4d0e-8d77-072113ee9e45.png)
-![linkedin](https://user-images.githubusercontent.com/73984528/157231188-6462a03d-69ed-4170-8198-52c0e9a8feac.png)
- -->
+
+<!-- ![instagram](https://user-images.githubusercontent.com/73984528/157232497-83349994-0cd7-461f-96cf-b9b773bc24ca.png)
+![linkedin](https://user-images.githubusercontent.com/73984528/157232499-bafa66e2-04e5-4ce1-8a03-6a41d1105da9.png)
+![twitter](https://user-images.githubusercontent.com/73984528/157232500-1f9778e0-8b84-476f-9c38-f1159f26875f.png) -->
 
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Farooqi | Twitter" width="55rem" src="https://user-images.githubusercontent.com/73984528/157229532-f75200c5-5482-4f21-9ef4-44bbc4ef655d.png" />][twitter]
-[<img align="left" alt="Farooqi | LinkedIn" width="58rem" src="https://user-images.githubusercontent.com/73984528/157230001-b826779c-4679-4e14-a7d2-05db34524adb.png" />][linkedin]
-[<img align="left" alt="Farooqi | Instagram" width="45rem" src="https://user-images.githubusercontent.com/73984528/157231184-a4a6aace-be36-4d0e-8d77-072113ee9e45.png" />][instagram]
+[<img align="left" alt="Farooqi | Twitter" width="45rem" src="https://user-images.githubusercontent.com/73984528/157232500-1f9778e0-8b84-476f-9c38-f1159f26875f.png" />][twitter]
+[<img align="left" alt="Farooqi | LinkedIn" width="45rem" src="https://user-images.githubusercontent.com/73984528/157232499-bafa66e2-04e5-4ce1-8a03-6a41d1105da9.png" />][linkedin]
+[<img align="left" alt="Farooqi | Instagram" width="45rem" src="https://user-images.githubusercontent.com/73984528/157232497-83349994-0cd7-461f-96cf-b9b773bc24ca.png" />][instagram]
 
 
 [website]: https://www.linkedin.com/in/iamfarooqi/
