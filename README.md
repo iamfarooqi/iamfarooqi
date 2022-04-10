@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarooqi&layout=compact&theme=dark)](https://github.com/iamfarooqi) -->
 
-<!-- [![iamfarooqi Github Stats](https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark)](https://github.com/iamfarooqi) -->
+[![iamfarooqi Github Stats](https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark)](https://github.com/iamfarooqi)
