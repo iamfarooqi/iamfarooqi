@@ -1,13 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 ### Hi there 👋
+### My Name is Atta Ur Rahman Farooqi
 
 :pushpin:: Student of Computer System Engineering
 
-:pushpin:: Front-end Developer
+:pushpin:: MERN Stack Developer
 
-:pushpin:: Learning back-end (Node.js)
+:pushpin:: javaScript Developer
 
-:pushpin:: On the way to Full-Stack Developer
+:pushpin:: Trying to Learn Something new every Day
+
+<!-- :pushpin:: On the way to Full-Stack Developer -->
 <!--
 **iamfarooqi/iamfarooqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
