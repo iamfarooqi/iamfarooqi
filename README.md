@@ -11,6 +11,7 @@
 :pushpin:: Trying to Learn Something new every Day
 
 <!-- :pushpin:: On the way to Full-Stack Developer -->
+<!-- :pushpin:: On the way to Full-Stack Developer -->
 <!--
 **iamfarooqi/iamfarooqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
