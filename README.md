@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Farooqi | Twitter" width="45rem" src="https://user-images.githubusercontent.com/73984528/157232500-1f9778e0-8b84-476f-9c38-f1159f26875f.png" />][twitter]
 [<img align="left" alt="Farooqi | LinkedIn" width="45rem" src="https://user-images.githubusercontent.com/73984528/157232499-bafa66e2-04e5-4ce1-8a03-6a41d1105da9.png" />][linkedin]
 [<img align="left" alt="Farooqi | Instagram" width="45rem" src="https://user-images.githubusercontent.com/73984528/157232497-83349994-0cd7-461f-96cf-b9b773bc24ca.png" />][instagram]
