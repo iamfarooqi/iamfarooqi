@@ -2,11 +2,11 @@
 ### Hi there 👋
 ### My Name is Atta Ur Rahman Farooqi
 
-:pushpin: Student of Computer System Engineering <br/>
 :pushpin: MERN Stack Developer <br/>
-:pushpin: Blockchain Enthusiast <br/>
+:pushpin: Next.js Developer <br/>
 :pushpin: javaScript Developer <br/>
-:pushpin: Trying to Learn Something new every Day
+:pushpin: Blockchain Enthusiast <br/>
+:pushpin: Student of Computer System Engineering
 
 
 <!---- :pushpin:: On the to Full Stack Developer ---->
