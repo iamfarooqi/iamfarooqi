@@ -6,7 +6,7 @@
 :pushpin: Next.js Developer <br/>
 :pushpin: javaScript Developer <br/>
 :pushpin: Blockchain Enthusiast <br/>
-:pushpin: Student of Computer System Engineering
+:pushpin: Computer System Engineer
 
 
 <!--- :pushpin:: On the to Full Stack Developer -->
