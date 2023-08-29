@@ -5,6 +5,7 @@
 :pushpin: MERN Stack Developer <br/>
 :pushpin: Next.js Developer <br/>
 :pushpin: javaScript/typeScript Developer <br/>
+:pushpin: Google Cloud Services <br/>
 :pushpin: Blockchain Enthusiast <br/>
 :pushpin: Computer System Engineer
 
