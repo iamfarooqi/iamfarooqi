@@ -2,6 +2,7 @@
 ### Hi there 👋
 ### My Name is Atta Ur Rahman Farooqi
 
+:pushpin: JavaScript Developer <br/>
 :pushpin: MERN Stack Developer <br/>
 :pushpin: Next.js Developer <br/>
 :pushpin: javaScript/typeScript Developer <br/>
