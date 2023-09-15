@@ -2,13 +2,14 @@
 ### Hi there 👋
 ### My Name is Atta Ur Rahman Farooqi
 
+:pushpin: Computer System Engineer <br/>
 :pushpin: JavaScript Developer <br/>
 :pushpin: MERN Stack Developer <br/>
 :pushpin: Next.js Developer <br/>
 :pushpin: JavaScript/TypeScript Developer <br/>
 :pushpin: Google Cloud Services <br/>
-:pushpin: Blockchain Enthusiast <br/>
-:pushpin: Computer System Engineer
+:pushpin: Blockchain Enthusiast
+
 
 
 <!--- :pushpin:: On the to Full Stack Developer -->
