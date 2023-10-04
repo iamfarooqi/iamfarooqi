@@ -3,10 +3,9 @@
 ### My Name is Atta Ur Rahman Farooqi
 
 :pushpin: Computer System Engineer <br/>
-:pushpin: JavaScript Developer <br/>
+:pushpin: JavaScript/TypeScript Developer <br/>
 :pushpin: MERN Stack Developer <br/>
 :pushpin: Next.js Developer <br/>
-:pushpin: JavaScript/TypeScript Developer <br/>
 :pushpin: Google Cloud Services <br/>
 :pushpin: Blockchain Enthusiast
 
@@ -53,9 +52,8 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="1st-div" width="30%" src="https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png" />
+  <img align="left" alt="1st-div" width="30%" src="https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png" />
   <img align="left" alt="1st-div" width="30%" src="https://user-images.githubusercontent.com/73984528/156903454-acf97a33-6acd-443e-8282-3e6112e43f67.png" />
-
 </div>
 
 <br/>
@@ -66,8 +64,8 @@ Here are some ideas to get you started:
 <div>
 <details>
   <summary>Most Used Languages</summary>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarooqi&layout=compact&theme=dark" alt="iamfarooqi" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarooqi&layout=compact&theme=dark" alt="iamfarooqi" /></p>
 </details>
 </div>
 
@@ -76,7 +74,8 @@ Here are some ideas to get you started:
 <div>
 <details>
    <summary>Github Stats</summary>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark" alt="iamfarooqi" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark" alt="iamfarooqi" /></p>
 </details>
 </div>
 
