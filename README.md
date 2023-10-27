@@ -1,14 +1,18 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-### Hi there 👋
+<!---![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+###
+--->
+<h1 align="center">hey there 👋</h1>
+
+###
 ### My Name is Atta Ur Rahman Farooqi
 
-:pushpin: Computer System Engineer <br/>
-:pushpin: JavaScript/TypeScript Developer <br/>
-:pushpin: MERN Stack Developer <br/>
-:pushpin: Full Stack Developer <br/>
-:pushpin: Next.js Developer <br/>
-:pushpin: Google Cloud Services <br/>
-:pushpin: Blockchain Enthusiast
+  :pushpin: Computer System Engineer <br/>
+  :pushpin: JavaScript/TypeScript Developer <br/>
+  :pushpin: MERN Stack Developer <br/>
+  :pushpin: Full Stack Developer <br/>
+  :pushpin: Next.js Developer <br/>
+  :pushpin: Google Cloud Services <br/>
+  :pushpin: Blockchain Enthusiast
 
 
 
@@ -38,6 +42,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Farooqi | LinkedIn" width="45rem" src="https://user-images.githubusercontent.com/73984528/157232499-bafa66e2-04e5-4ce1-8a03-6a41d1105da9.png" />][linkedin]
 [<img align="left" alt="Farooqi | Instagram" width="45rem" src="https://user-images.githubusercontent.com/73984528/157232497-83349994-0cd7-461f-96cf-b9b773bc24ca.png" />][instagram]
 
+<br/>
 
 [website]: https://www.linkedin.com/in/iamfarooqi/
 [twitter]: https://twitter.com/iam_farooqi
@@ -46,21 +51,45 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/iamfarooqi/
 
 <br/>
-<br/>
 <hr/>
 
 
 ### Languages and Tools:
 
-<div>
-  <img align="left" alt="1st-div" width="30%" src="https://user-images.githubusercontent.com/73984528/156903340-cac9334f-38e7-4f9f-bad0-c954ea9a93c3.png" />
-  <img align="left" alt="1st-div" width="30%" src="https://user-images.githubusercontent.com/73984528/156903454-acf97a33-6acd-443e-8282-3e6112e43f67.png" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
-<br/>
-<br/>
-<br/>
+
 <hr/>
+
+<div>
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iamfarooqi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <div>
 <details>
@@ -71,14 +100,6 @@ Here are some ideas to get you started:
 </div>
 
 <hr/>
-
-<div>
-<details>
-   <summary>Github Stats</summary>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark" alt="iamfarooqi" /></p>
-</details>
-</div>
 
 
 
