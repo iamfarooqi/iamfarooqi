@@ -15,11 +15,11 @@
   :pushpin: Computer System Engineer <br/>
   :pushpin: JavaScript/TypeScript Developer <br/>
   :pushpin: MERN Stack Developer <br/>
-  <!--- :pushpin: Full Stack Developer <br/> -->
   :pushpin: Next.js Developer <br/>
   :pushpin: Google Cloud Services <br/>
   :pushpin: Blockchain Enthusiast
 
+  <!--- :pushpin: Full Stack Developer <br/> -->
 
 
 <!--- :pushpin:: On the to Full Stack Developer -->
