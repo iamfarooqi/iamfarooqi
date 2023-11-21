@@ -7,7 +7,7 @@
 </div>
 
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 
 ### My Name is Atta Ur Rahman Farooqi
@@ -18,25 +18,6 @@
   :pushpin: Next.js Developer <br/>
   :pushpin: Google Cloud Services <br/>
   :pushpin: Blockchain Enthusiast
-
-  <!--- :pushpin: Full Stack Developer <br/> -->
-
-
-<!--- :pushpin:: On the to Full Stack Developer -->
-<!--
-**iamfarooqi/iamfarooqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ### Connect with me:
