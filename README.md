@@ -1,7 +1,3 @@
-<!---![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-###
---->
-
 <div align="center">
   <img height="250" src="https://drive.google.com/uc?id=1AZPIKOAESD8aSe6-6G-v-d1SF_JjdC0y"/>
 </div>
@@ -87,9 +83,3 @@
 </div>
 
 <hr/>
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarooqi&layout=compact&theme=dark)](https://github.com/iamfarooqi) -->
-
-<!-- [![iamfarooqi Github Stats](https://github-readme-stats.vercel.app/api?username=iamfarooqi&count_private=true&show_icons=true&theme=dark)](https://github.com/iamfarooqi) -->
