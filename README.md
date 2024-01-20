@@ -8,7 +8,7 @@
 
 ### My Name is Atta Ur Rahman Farooqi
 
-  :pushpin: Computer System Engineer <br/>
+  :pushpin: Computer Systems Engineer <br/>
   :pushpin: JavaScript/TypeScript Developer <br/>
   :pushpin: MERN Stack Developer <br/>
   :pushpin: Next.js Developer <br/>
